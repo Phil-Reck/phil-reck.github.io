@@ -1,57 +1,53 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "name": "Philip Matunda",
+    "label": "Juniot Software Developer",
+    "picture": "https://techfolios.github.io/template/images/Phil-011.jpg",
+    "email": "philipmatunda@gmail.com",
+    "phone": "+254745450770",
+    "website": "https://phil-reck.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "14684",
+      "city": "Nakuru",
+      "countryCode": "Kenya",
+      "region": "Rift Valley"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "phil-reck",
+        "url": "http://github.com/phil-reck"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Philip Matunda",
+        "url": "https://www.linkedin.com/in/philip-matunda-b83a9915b/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Fullstack Development",
+        "Laravel",
+        "Vuejs"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Linux OS",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Tech Community",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Space",
       "keywords": [
       ]
     }
@@ -61,33 +57,43 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "PHP",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Laravel",
+        "Vuejs",
+        "Flask"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Postman",
+        "Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Chrome Dev Tools",
+        "VSCode"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Kabarak University",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2017-09-07",
+      "endDate": "2021-12-17",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Open Source Society University",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022-02-01",
+      "endDate": "present",
       "gpa": "",
       "courses": [
       ]
@@ -95,75 +101,69 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "HealthIT Project",
+      "position": "Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-02-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Worked on Kenya Health Information system products used in Nakuru and Baringo Counties.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Deployment of the extended KenyaEMR systems at facilities in Nakuru and Baringo counties.",
+        "Leading student engagement and facilitating the development of solutions for the Extended KenyaEMR, CPIMS, MOH Data analytic platform and the County annual workplan process in the Health Information systems."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Co-Organizer Vuejs Kenya",
+      "website": "https://meetup.com/vue-js-kenya",
+      "position": "",
+      "startDate": "2020-3-04",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "This is a group for anyone interested in 'Vue.js - The Progressive JavaScript Framework'. The goal is to provide monthly meetups where people give talks on Vue.js and related topics, and people can get together with other developers in the community.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Google Developers - Developer Student Club",
+      "website": "https://gdsc.community.dev/kabarak-university/",
+      "position": "Lead",
+      "startDate": "2018-06-27",
+      "endDate": "2019-07-28",
+      "summary": "Google DSC Pioneer Lead",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "I hosted and organized events and workshops to increase students skills in areas of web development, mobile app development and action on Google.",
+        "I worked with local organizations to identify issues which could be resolved using mobile applications and get these applications developed by the students in their clubs.",
+        "I gained relevant industry experience by solving problems for local organization with technology based solutions.",
+        "I facilitated students prototyp showcase and solutions to their local community, university and industry leaders",
+        "I grew students knowledge on developer technologies and more through peer to peer workshops and events"
+      ]
+    },
+    {
+      "organization": "Exercism",
+      "website": "https://exercism.org/profiles/Phil-Reck",
+      "position": "Mentor",
+      "startDate": "2020-05-29",
+      "endDate": "Present",
+      "summary": "Exercism is an online, open-souce, free coding platform that offers code practice and mentorship.",
+      "highlights": [
+        "I help developers solve coding exercise and mentor them to gain true fluency in javascript while learning from them."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
+    
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Dr Moses Thiga",
+      "reference": "Director Research and Innovation, Kabarak Univerity"
     }
   ]
 }
