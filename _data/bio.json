@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Philip Matunda",
-    "label": "Junior Software Developer",
-    "picture": "https://phil-reck.github.io/images/phil.jpg",
+    "label": "Software Developer",
+    "picture": "/images/phil.jpg",
     "email": "philipmatunda@gmail.com",
     "phone": "+254745450770",
     "website": "https://phil-reck.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "Currently building for the web, mostly with Laravel and Vue, Co-organizer Vuejs Kenya, Mentor at Exercism and Google DSC Kabarak University.",
     "location": {
       "address": "",
       "postalCode": "14684",
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Software Development",
+      "name": "Laravel, Livewire, Vue",
       "keywords": [
         "Fullstack Development",
         "Laravel",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Linux OS",
+      "name": "Linux",
       "keywords": [
       ]
     },
@@ -48,6 +48,10 @@
     },
     {
       "name": "Space",
+      "keywords": [
+      ]
+    },{
+      "name": "Writing",
       "keywords": [
       ]
     }
@@ -61,6 +65,7 @@
         "Javascript",
         "Python",
         "Laravel",
+        "Livewire",
         "Vuejs",
         "Flask"
       ]
@@ -150,15 +155,6 @@
         "I help developers solve coding exercise and mentor them to gain true fluency in javascript while learning from them."
       ]
     }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-    
   ],
   "references": [
     {
