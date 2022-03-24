@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/laravel-mpesa.png
+title: Laravel Mpesa Intergration
+permalink: projects/laravel-mpesa
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2022-03-22
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Laravel
+  - Mpesa API
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 

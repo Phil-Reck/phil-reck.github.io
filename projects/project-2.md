@@ -7,7 +7,7 @@ permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
+  - Javascripts
   - Meteor
   - MongoDB
   - GitHub

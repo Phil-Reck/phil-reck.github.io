@@ -10,7 +10,7 @@ labels:
   - Laravel
   - SQL
   - Websockets
-summary: For this project, I was part of a team of four where I took part in the implementation of...
+summary: The system is built for a University based setup for the generation of a semeter
 ---
 
 <div class="ui small rounded images">

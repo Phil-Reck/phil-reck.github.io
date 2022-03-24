@@ -1,36 +1,76 @@
 ---
 layout: project
 type: project
-image: images/kabu-timetabling.png
-title: Kabarak University Timetabling
-permalink: projects/timetabling
+image: images/gdsc.png
+title: Google DSC Community 
+permalink: projects/GDSC
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-01
+date: 2020-11-09
 labels:
-  - Laravel
-  - SQL
-  - Websockets
-summary: For this project, I was part of a team of four where I took part in the implementation of...
+  - Vuejs
+  - Firebase
+  - Meetup API
+  - Service Worker API
+summary: This is a project for the Google Developer Student Club community for Kabarak University version. The focus is to have a pwa that would look and feel like a native application, quick and easy to install in a mobile app with an enhanced performance working on all devices. Silent updates while operating offline is a concern addressed.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/schools.png">
-  <img class="ui image" src="../images/timetable.png">
+  <img class="ui image" src="../images/gdsc-contact.png">
+  <img class="ui image" src="../images/gdsc-about.png">
 </div>
 
-The project is built with Laravel with AdminLTE for the frontside templating.
+First & foremost, huge thanks to all the contributors, specifially Vrijraj Singh, Google Developer Expert for Firebase & Web for his initial work in the project, I'm standinding in his shoulders, the Giant :)
 
-The system is built for a University based setup for the generation of a semeter long timetable based on parameters such as the Venue classes will be taking place, the School and Department under which Diploma and Degree Programs belong to, the Units each Program has, the time allocation for each Unit and the Room and Laboratory each unit will be taking place at for a given period of the week.
-The system then generates a timetable, which factors in the number of days classes are carried out within the institution, the cohort that are doing that semester and leaves the ones on break.
+The project is an inspiration to me as a developer, this made me to quickly pick up on Vuejs and learnt a lot from it. As a result, I started organizing Vuejs Kenya community and worked with very talented and passionate web developers. You can check out more on the community on our, [meetup page](https://www.meetup.com/vue-js-kenya) and [twitter handle](https://twitter.com/kenyavue?lang=en). Much more coming from the community...
 
-For this project, I was part of a team of four where I took part in the implementation of some of the CRUD functionality, addition of new features in the project, setting up the server environment CI/CD and customizing the user interface, debugging  and performing unit test for current and newly developed features.
+The project is based on Vuejs and incorporates some amazing tools, pwa and the meetup API and it's hosted on firebase which offers a wide range of services and features and has a free basic plan with quick and easy integration and setup.
 
-The system implements some awesome laravel features; authentication of users based on roles, php unit tests, validations, file management, events and listeners, queues and jobs of the generation with advanced eloquent and DB operations and Websockets.
+The code design for the project still is the most facinating thing on this project, quite easy to pick up on what has been done and introduce new features into the project.
+The project uses state management using Vuex and the framework's router which makes it dead-simple in adopting it.
+
+To ensure that the theme is in line with Google's theme, it makes good use of material-design and Vuetify, which is its component framework for Vue.js.
+
+Before Google switched all it's event management to the new platform at [Google Developers](https://gdsc.community.dev/), it used Meetup platform, and at the time of development of the project, all our community events was managed using the Meetup platform, hence, this project makes use of the meetup API to fetch events information to the users using axios, a promise based client for the browser.
+Check this out, 
+
+```js
+  fetch(
+      "https://cors-anywhere.herokuapp.com/https://api.meetup.com/" +
+        MeetupAPI.urlname +
+        "/events?&sign=true"
+    )
+      .then((data) => data.json())
+      .then((res) => {
+        if (res.length > 0) {
+          this.showLoader = false;
+          this.showData = true;
+          this.eventsData = res;
+        } else {
+          this.showLoader = false;
+          this.notFoundUpcomingEventFlag = true;
+        }
+      })
+```
+Then consume it in your template.
+There's so much I've left abt this project that thrills and motivates how I approach my coding style.
+You can check more on the project here
+
+Source: <a href="https://github.com/DSCKabarak/aura"><i class="large github icon"></i>DSCKabarak/aura</a> <br>
+Live Website: <a href="https://dsckabarakuniversity.web.app">GDSC Kabarak University</a>
+
 
 
 Follow the links to learn more about 
-[Laravel](https://www.laravel.com),
-[AdminLTE](https://www.adminlte.io/)
+[Vuejs](https://vuejs.org),
+[PWA](https://web.dev/progressive-web-apps/) and
+[Meetup-API](https://www.meetup.com/api/)
+
+<br>
+<br>
+
+
+
+
 
 
 
