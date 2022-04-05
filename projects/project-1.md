@@ -8,10 +8,11 @@ permalink: projects/GDSC
 date: 2020-11-09
 labels:
   - Vuejs
+  - pwa
   - Firebase
   - Meetup API
   - Service Worker API
-summary: This is a project for the Google Developer Student Club community for Kabarak University version. The focus is to have a pwa that would look and feel like a native application, quick and easy to install in a mobile app with an enhanced performance working on all devices. Silent updates while operating offline is a concern addressed.
+summary: The focus is to have a pwa that would look and feel like a native application, quick and easy to install in a mobile app with an enhanced performance working on all devices.
 ---
 
 <div class="ui small rounded images">
@@ -19,7 +20,7 @@ summary: This is a project for the Google Developer Student Club community for K
   <img class="ui image" src="../images/gdsc-about.png">
 </div>
 
-First & foremost, huge thanks to all the contributors, specifially Vrijraj Singh, Google Developer Expert for Firebase & Web for his initial work in the project, I'm standinding in his shoulders, the Giant :)
+First & foremost, huge thanks to all the contributors, specifically Vrijraj Singh, Google Developer Expert for Firebase & Web for his initial work in the project, I'm standinding in his shoulders, the Giant :)
 
 The project is an inspiration to me as a developer, this made me to quickly pick up on Vuejs and learnt a lot from it. As a result, I started organizing Vuejs Kenya community and worked with very talented and passionate web developers. You can check out more on the community on our, [meetup page](https://www.meetup.com/vue-js-kenya) and [twitter handle](https://twitter.com/kenyavue?lang=en). Much more coming from the community...
 

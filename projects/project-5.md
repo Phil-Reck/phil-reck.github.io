@@ -9,7 +9,7 @@ date: 2022-03-22
 labels:
   - Laravel
   - Mpesa API
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: An Mpesa API intergration with Laravel
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
