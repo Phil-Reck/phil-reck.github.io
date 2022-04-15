@@ -10,6 +10,7 @@ labels:
   - Laravel
   - SQL
   - Websockets
+  - jQuery
 summary: The system is built for a University based setup for the generation of a semeter
 ---
 
@@ -20,17 +21,14 @@ summary: The system is built for a University based setup for the generation of 
 
 The project is built with Laravel with AdminLTE for the frontside templating.
 
-The system is built for a University based setup for the generation of a semeter long timetable based on parameters such as the Venue classes will be taking place, the School and Department under which Diploma and Degree Programs belong to, the Units each Program has, the time allocation for each Unit and the Room and Laboratory each unit will be taking place at for a given period of the week.
+The system is built for Kabarak University and/or for any University based setup for the generation of a semeter long timetable based on parameters such as the Venue classes will be taking place, the School and Department under which Diploma and Degree Programs belong to, the Units each Program has, the time allocation for each Unit and the Room and Laboratory each unit will be taking place at for a given period of the week.
 The system then generates a timetable, which factors in the number of days classes are carried out within the institution, the cohort that are doing that semester and leaves the ones on break.
 
-For this project, I was part of a team of four where I took part in the implementation of some of the CRUD functionality, addition of new features in the project, setting up the server environment CI/CD and customizing the user interface, debugging  and performing unit test for current and newly developed features.
+For this project, I took part in the implementation of the CRUD functionality, development of new features, refactoring for speed & memory efficiency, setup of a linux based server environment on Digital Ocean, debugging  and performing tests for current and newly developed features.
 
-The system implements some awesome laravel features; authentication of users based on roles, php unit tests, validations, file management, events and listeners, queues and jobs of the generation with advanced eloquent and DB operations and Websockets.
+The system implements some awesome laravel features; websockets, authentication of users based on roles, events, jobs and listeners, queues and jobs of the generation of the timetable.
 
 
-Follow the links to learn more about 
-[Laravel](https://www.laravel.com),
-[AdminLTE](https://www.adminlte.io/)
 
 
 

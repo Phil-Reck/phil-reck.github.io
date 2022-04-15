@@ -6,7 +6,7 @@
     "email": "philipmatunda@gmail.com",
     "phone": "+254745450770",
     "website": "https://phil-reck.github.io",
-    "summary": "Currently building for the web, mostly with Laravel and Vue, Co-organizer Vuejs Kenya, Mentor at Exercism and Google DSC Kabarak University.",
+    "summary": "Currently building for the web, mostly with Laravel and Vue, Co-organizer Vuejs Kenya, Mentor at Exercism and GDSC Kabarak University.",
     "location": {
       "address": "",
       "postalCode": "14684",
@@ -29,11 +29,8 @@
   },
   "interests": [
     {
-      "name": "Laravel, Livewire, Vue",
+      "name": "Software Development",
       "keywords": [
-        "Fullstack Development",
-        "Laravel",
-        "Vuejs"
       ]
     },
     {
@@ -47,12 +44,15 @@
       ]
     },
     {
+      "name": "Reading",
+      "keywords": [ 
+        "non-fictional"
+      ]
+    },
+    {
       "name": "Space",
       "keywords": [
-      ]
-    },{
-      "name": "Writing",
-      "keywords": [
+        
       ]
     }
   ],
@@ -61,13 +61,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "PHP",
-        "Javascript",
-        "Python",
         "Laravel",
         "Livewire",
         "Vuejs",
-        "Flask"
+        "Django",
+        "Mysql"
       ]
     },
     {
@@ -76,7 +74,7 @@
       "keywords": [
         "Postman",
         "Linux",
-        "Git/GitHub",
+        "Git",
         "Chrome Dev Tools",
         "VSCode"
       ]
@@ -86,21 +84,11 @@
     {
       "institution": "Kabarak University",
       "area": "Computer Science",
-      "studyType": "B.S.",
+      "studyType": "B.Sc",
       "startDate": "2017-09-07",
       "endDate": "2021-12-17",
       "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Open Source Society University",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2022-02-01",
-      "endDate": "present",
-      "gpa": "",
-      "courses": [
+      "courses": [ 
       ]
     }
   ],
@@ -110,22 +98,35 @@
       "position": "Intern",
       "website": "",
       "startDate": "2021-02-08",
-      "endDate": "Present",
-      "summary": "Worked on Kenya Health Information system products used in Nakuru and Baringo Counties.",
+      "endDate": "2022-02-02",
+      "summary": "Worked on Kenya Health Information system products used by MoH used Nationally and within Nakuru and Baringo Counties.",
       "highlights": [
-        "Deployment of the extended KenyaEMR systems at facilities in Nakuru and Baringo counties.",
-        "Leading student engagement and facilitating the development of solutions for the Extended KenyaEMR, CPIMS, MOH Data analytic platform and the County annual workplan process in the Health Information systems."
+        "Participated in the EID/VL(Early Infant Diagnosis/Viral Load) system hackathon where I took part in the development of a Client Based registry.",
+        "Contributed to the refactoring & upgrade of the CPIMS(Child Protection Information Management System) used by the Department of Children Services.",
+        "Deployment and performing system upgrades of the extended KenyaEMR used in four facilities in Nakuru and the Baringo County Referral hospital in Baringo.",
+        "Lead student engagement at Kabarak University in development and customization of Kenya Health Information Systems",
       ]
     }
   ],
+  
   "volunteer": [
+    {
+      "organization": "Volunteer, HealthIT",
+      "website": "https://healthit.uonbi.ac.ke/",
+      "position": "Volunteer",
+      "startDate": "2022-2-08",
+      "endDate": "Present",
+      "summary": "I'm taking part in the development of CPIMS APIs endpoints",
+      "highlights": [
+      ]
+    },
     {
       "organization": "Co-Organizer Vuejs Kenya",
       "website": "https://meetup.com/vue-js-kenya",
-      "position": "",
+      "position": "Co-organizer",
       "startDate": "2020-3-04",
       "endDate": "Present",
-      "summary": "This is a group for anyone interested in 'Vue.js - The Progressive JavaScript Framework'. The goal is to provide monthly meetups where people give talks on Vue.js and related topics, and people can get together with other developers in the community.",
+      "summary": "I'm taking part in speakers engagement, planning and execution of events, meetups and community partnership within Kenya & Sub-sahara Africa tech communities",
       "highlights": [
       ]
     },
@@ -135,13 +136,8 @@
       "position": "Lead",
       "startDate": "2018-06-27",
       "endDate": "2019-07-28",
-      "summary": "Google DSC Pioneer Lead",
+      "summary": "Pioneered GDSC Kabarak University through building technical capacity in the university around Google technologies(Firebase, Android, GCP, Flutter). Currently mentoring the community",
       "highlights": [
-        "I hosted and organized events and workshops to increase students skills in areas of web development, mobile app development and action on Google.",
-        "I worked with local organizations to identify issues which could be resolved using mobile applications and get these applications developed by the students in their clubs.",
-        "I gained relevant industry experience by solving problems for local organization with technology based solutions.",
-        "I facilitated students prototyp showcase and solutions to their local community, university and industry leaders",
-        "I grew students knowledge on developer technologies and more through peer to peer workshops and events"
       ]
     },
     {
@@ -152,14 +148,11 @@
       "endDate": "Present",
       "summary": "Exercism is an online, open-souce, free coding platform that offers code practice and mentorship.",
       "highlights": [
-        "I help developers solve coding exercise and mentor them to gain true fluency in javascript while learning from them."
+        "I learn best by teaching developers at Exercism, Javascript language"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Dr Moses Thiga",
-      "reference": "Director Research and Innovation, Kabarak Univerity"
-    }
+  "referencessss": [
+    
   ]
 }
