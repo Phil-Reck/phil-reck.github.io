@@ -1,0 +1,158 @@
+{
+    "basics": {
+      "name": "Philip Matunda",
+      "label": "Software Developer",
+      "picture": "/images/phil.jpg",
+      "email": "philipmatunda@gmail.com",
+      "phone": "+254745450770",
+      "website": "https://phil-reck.github.io",
+      "summary": "Currently building for the web, mostly with Laravel and Vue, Co-organizer Vuejs Kenya, Mentor at Exercism and GDSC Kabarak University.",
+      "location": {
+        "address": "",
+        "postalCode": "14684",
+        "city": "Nakuru",
+        "countryCode": "Kenya",
+        "region": "Rift Valley"
+      },
+      "profiles": [
+        {
+          "network": "github",
+          "username": "phil-reck",
+          "url": "http://github.com/phil-reck"
+        },
+        {
+          "network": "linkedin",
+          "username": "Philip Matunda",
+          "url": "https://www.linkedin.com/in/philip-matunda-b83a9915b/"
+        }
+      ]
+    },
+    "interests": [
+      {
+        "name": "Software Development",
+        "keywords": [
+        ]
+      },
+      {
+        "name": "Linux",
+        "keywords": [
+        ]
+      },
+      {
+        "name": "Tech Community",
+        "keywords": [
+        ]
+      },
+      {
+        "name": "Reading",
+        "keywords": [ 
+          "non-fictional"
+        ]
+      },
+      {
+        "name": "Space",
+        "keywords": [
+          
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Languages and Frameworks",
+        "level": "",
+        "keywords": [
+          "Laravel",
+          "Livewire",
+          "Vuejs",
+          "Django",
+          "Mysql"
+        ]
+      },
+      {
+        "name": "Toolsets/OS",
+        "level": "",
+        "keywords": [
+          "Postman",
+          "Linux",
+          "Git",
+          "Chrome Dev Tools",
+          "VSCode"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Kabarak University",
+        "area": "Computer Science",
+        "studyType": "B.Sc",
+        "startDate": "2017-09-07",
+        "endDate": "2021-12-17",
+        "gpa": "",
+        "courses": [ 
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "HealthIT Project",
+        "position": "Intern",
+        "website": "",
+        "startDate": "2021-02-08",
+        "endDate": "2022-02-02",
+        "summary": "Worked on Kenya Health Information system products used by MoH used Nationally and within Nakuru and Baringo Counties.",
+        "highlights": [
+          "Participated in the EID/VL(Early Infant Diagnosis/Viral Load) system hackathon where I took part in the development of a Client Based registry.",
+          "Contributed to the refactoring & upgrade of the CPIMS(Child Protection Information Management System) used by the Department of Children Services.",
+          "Deployment and performing system upgrades of the extended KenyaEMR used in four facilities in Nakuru and the Baringo County Referral hospital in Baringo.",
+          "Lead student engagement at Kabarak University in development and customization of Kenya Health Information Systems",
+        ]
+      }
+    ],
+    
+    "volunteer": [
+      {
+        "organization": "Volunteer, HealthIT",
+        "website": "https://healthit.uonbi.ac.ke/",
+        "position": "Volunteer",
+        "startDate": "2022-2-08",
+        "endDate": "Present",
+        "summary": "I'm taking part in the development of CPIMS APIs endpoints",
+        "highlights": [
+        ]
+      },
+      {
+        "organization": "Co-Organizer Vuejs Kenya",
+        "website": "https://meetup.com/vue-js-kenya",
+        "position": "Co-organizer",
+        "startDate": "2020-3-04",
+        "endDate": "Present",
+        "summary": "I'm taking part in speakers engagement, planning and execution of events, meetups and community partnership within Kenya & Sub-sahara Africa tech communities",
+        "highlights": [
+        ]
+      },
+      {
+        "organization": "Google Developers - Developer Student Club",
+        "website": "https://gdsc.community.dev/kabarak-university/",
+        "position": "Lead",
+        "startDate": "2018-06-27",
+        "endDate": "2019-07-28",
+        "summary": "Pioneered GDSC Kabarak University through building technical capacity in the university around Google technologies(Firebase, Android, GCP, Flutter). Currently mentoring the community",
+        "highlights": [
+        ]
+      },
+      {
+        "organization": "Exercism",
+        "website": "https://exercism.org/profiles/Phil-Reck",
+        "position": "Mentor",
+        "startDate": "2020-05-29",
+        "endDate": "Present",
+        "summary": "Exercism is an online, open-souce, free coding platform that offers code practice and mentorship.",
+        "highlights": [
+          "I learn best by teaching developers at Exercism, Javascript language"
+        ]
+      }
+    ],
+    "referencessss": [
+      
+    ]
+  }
